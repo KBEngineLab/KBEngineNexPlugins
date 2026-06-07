@@ -1,0 +1,42 @@
+{
+  "name": "KBEngineNex Plugins",
+  "version": "0.1.0",
+  "description": "KBEngineNex 官方插件源",
+  "maintainer": "KBEngineLab",
+  "plugins": [
+    {
+      "id": "DbStress",
+      "name": "DbStress",
+      "description": "数据库压测插件，覆盖 CRUD 全场景，支持 MySQL / PostgreSQL / MongoDB，输出行业标准延迟与 TPS 报告",
+      "author": "KBEngineLab",
+      "category": "tool",
+      "tags": ["database", "stress-test", "benchmark"],
+      "github": "https://github.com/KBEngineLab/KBEngineNex-Plugin-DbStress",
+      "gitee": "https://gitee.com/KBEngineLab/kbenginenex-plugin-dbstress",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "github": "https://github.com/KBEngineLab/KBEngineNex-Plugin-DbStress/releases/download/v0.1.0/DbStress-0.1.0.zip",
+          "gitee": "https://gitee.com/KBEngineLab/kbenginenex-plugin-dbstress/releases/download/v0.1.0/DbStress-0.1.0.zip"
+        }
+      ]
+    },
+    {
+      "id": "Bag",
+      "name": "Bag",
+      "description": "Avatar 背包组件插件，将背包从独立实体改为组件 + 独立数据表模式，支持装备、道具、材料、邮件附件、离线发奖、商城补单和 GM 工具",
+      "author": "KBEngineLab",
+      "category": "gameplay",
+      "tags": ["bag", "inventory", "component", "item"],
+      "github": "https://github.com/KBEngineLab/KBEngineNex-Plugin-Bag",
+      "gitee": "https://gitee.com/KBEngineLab/kbenginenex-plugin-bag",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "github": "https://github.com/KBEngineLab/KBEngineNex-Plugin-Bag/releases/download/v0.1.0/Bag-0.1.0.zip",
+          "gitee": "https://gitee.com/KBEngineLab/kbenginenex-plugin-bag/releases/download/v0.1.0/Bag-0.1.0.zip"
+        }
+      ]
+    }
+  ]
+}
