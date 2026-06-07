@@ -13,6 +13,8 @@
       "tags": ["database", "stress-test", "benchmark"],
       "github": "https://github.com/KBEngineLab/KBEngineNex-Plugin-DbStress",
       "gitee": "https://gitee.com/KBEngineLab/kbenginenex-plugin-dbstress",
+      "github_readme": "https://raw.githubusercontent.com/KBEngineLab/KBEngineNex-Plugin-DbStress/refs/heads/master/README.md",
+      "gitee_readme": "https://raw.giteeusercontent.com/KBEngineLab/kbenginenex-plugin-dbstress/raw/master/README.md",
       "versions": [
         {
           "version": "0.1.0",
@@ -31,6 +33,8 @@
       "tags": ["bag", "inventory", "component", "item"],
       "github": "https://github.com/KBEngineLab/KBEngineNex-Plugin-Bag",
       "gitee": "https://gitee.com/KBEngineLab/kbenginenex-plugin-bag",
+      "github_readme": "https://raw.githubusercontent.com/KBEngineLab/KBEngineNex-Plugin-Bag/refs/heads/master/README.md",
+      "gitee_readme": "https://raw.githubusercontent.com/KBEngineLab/KBEngineNex-Plugin-Bag/refs/heads/main/README.md",
       "versions": [
         {
           "version": "0.1.0",
