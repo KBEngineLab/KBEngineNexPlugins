@@ -16,6 +16,7 @@
       "versions": [
         {
           "version": "0.1.0",
+          "min_kbengine_version": "2.8.2",
           "github": "https://github.com/KBEngineLab/KBEngineNex-Plugin-DbStress/releases/download/v0.1.0/DbStress-0.1.0.zip",
           "gitee": "https://gitee.com/KBEngineLab/kbenginenex-plugin-dbstress/releases/download/v0.1.0/DbStress-0.1.0.zip"
         }
@@ -33,6 +34,7 @@
       "versions": [
         {
           "version": "0.1.0",
+          "min_kbengine_version": "2.8.2",
           "github": "https://github.com/KBEngineLab/KBEngineNex-Plugin-Bag/releases/download/v0.1.0/Bag-0.1.0.zip",
           "gitee": "https://gitee.com/KBEngineLab/kbenginenex-plugin-bag/releases/download/v0.1.0/Bag-0.1.0.zip"
         }
